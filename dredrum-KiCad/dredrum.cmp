@@ -1,0 +1,409 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-18 BZR 4017)-stable date = Sat 09 May 2015 16:42:54 CEST
+
+BeginCmp
+TimeStamp = /53906CB2;
+Reference = C1;
+ValeurCmp = 22p;
+IdModule  = Cap2.5mm-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53906CD6;
+Reference = C2;
+ValeurCmp = 22p;
+IdModule  = Cap2.5mm-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53906C93;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = Cap2.5mm-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53906C6A;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = Cap2.5mm-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377FA76;
+Reference = C5;
+ValeurCmp = 680p;
+IdModule  = C-5mm-film-WIMA-7x4;
+EndCmp
+
+BeginCmp
+TimeStamp = /537811C9;
+Reference = C6;
+ValeurCmp = 10u;
+IdModule  = CapEl2.5mm-hor5x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377FA63;
+Reference = C7;
+ValeurCmp = 1n;
+IdModule  = C-5mm-film-WIMA-7x4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377FA70;
+Reference = C8;
+ValeurCmp = 100p;
+IdModule  = C-5mm-film-WIMA-7x4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5378008D;
+Reference = C9;
+ValeurCmp = 330n;
+IdModule  = Cap2.5mm-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53780080;
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Cap2.5mm-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53780071;
+Reference = C11;
+ValeurCmp = 220u;
+IdModule  = CapEl2.5mm-hor6x12-MIRR;
+EndCmp
+
+BeginCmp
+TimeStamp = /53781880;
+Reference = C12;
+ValeurCmp = 100n;
+IdModule  = Cap2.5mm-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E3EE;
+Reference = D1;
+ValeurCmp = VOICE1;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E405;
+Reference = D2;
+ValeurCmp = VOICE2;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E415;
+Reference = D3;
+ValeurCmp = VOICE3;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E41B;
+Reference = D4;
+ValeurCmp = OUTPUT;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E421;
+Reference = D5;
+ValeurCmp = NOISE;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E427;
+Reference = D6;
+ValeurCmp = SAW;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E42D;
+Reference = D7;
+ValeurCmp = SQUARE;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E433;
+Reference = D8;
+ValeurCmp = SINE;
+IdModule  = LED-3mm-MOJE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53933C97;
+Reference = D10;
+ValeurCmp = 4001;
+IdModule  = DO41;
+EndCmp
+
+BeginCmp
+TimeStamp = /53782108;
+Reference = J1;
+ValeurCmp = TRIG IN;
+IdModule  = erthenvar-jackF;
+EndCmp
+
+BeginCmp
+TimeStamp = /537811AB;
+Reference = J2;
+ValeurCmp = AUDIO OUT;
+IdModule  = erthenvar-jackF;
+EndCmp
+
+BeginCmp
+TimeStamp = /53783A06;
+Reference = J4;
+ValeurCmp = AVRISP6;
+IdModule  = ISP6;
+EndCmp
+
+BeginCmp
+TimeStamp = /53932EEC;
+Reference = J5;
+ValeurCmp = EURO10pin;
+IdModule  = EURO10pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D83D2D;
+Reference = JP1;
+ValeurCmp = AC-DC;
+IdModule  = JUMPER;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377DD46;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = pot-ALPS-16mm-knob-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377DD59;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = pot-ALPS-16mm-knob-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377DD5F;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = pot-ALPS-16mm-knob-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377DD53;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = pot-ALPS-16mm-knob-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53906C5A;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A22D9E;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53781CC8;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53781CC2;
+Reference = R8;
+ValeurCmp = 100k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53781CBC;
+Reference = R9;
+ValeurCmp = 1M;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377FA48;
+Reference = R10;
+ValeurCmp = 16k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377FA55;
+Reference = R11;
+ValeurCmp = 100k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377FA5B;
+Reference = R12;
+ValeurCmp = 33k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53783400;
+Reference = R13;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53783412;
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53783418;
+Reference = R15;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5378341E;
+Reference = R16;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53783424;
+Reference = R17;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5378342A;
+Reference = R18;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53783430;
+Reference = R19;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53783436;
+Reference = R20;
+ValeurCmp = 1k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /537811D6;
+Reference = R21;
+ValeurCmp = 100k;
+IdModule  = R-hor75m-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377ED1B;
+Reference = SW1;
+ValeurCmp = TRIG;
+IdModule  = push-PCB6mm-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377ED7A;
+Reference = SW2;
+ValeurCmp = WAVE;
+IdModule  = push-PCB6mm-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377ED80;
+Reference = SW3;
+ValeurCmp = VOICE2;
+IdModule  = push-PCB6mm-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377ED86;
+Reference = SW4;
+ValeurCmp = VOICE1;
+IdModule  = push-PCB6mm-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377ED8C;
+Reference = SW5;
+ValeurCmp = VOICE3;
+IdModule  = push-PCB6mm-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5390802A;
+Reference = SW6;
+ValeurCmp = CLICK SWITCH;
+IdModule  = ninigi-switch-TSSM1022A2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377DC58;
+Reference = T1;
+ValeurCmp = BC549;
+IdModule  = TO92-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377E048;
+Reference = U1;
+ValeurCmp = ATMEGA48-PA;
+IdModule  = DIP-28-300-centrepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377FA7E;
+Reference = U2;
+ValeurCmp = MCP6002;
+IdModule  = DIP-8-300-centrepads-x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53780062;
+Reference = U3;
+ValeurCmp = 7805;
+IdModule  = 7805-TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /5377C860;
+Reference = X?1;
+ValeurCmp = 20MHz;
+IdModule  = crystal_hc-49u;
+EndCmp
+
+EndListe
